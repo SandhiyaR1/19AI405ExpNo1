@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: SANDHIYA R R</h3>
+<h3>Name: SANDHIYA R </h3>
 <h3>Register Number:212222230129</h3>
 
 
@@ -221,3 +221,5 @@ if __name__ == "__main__":
 <h3>OUTPUT:</h3>
 
 ![Screenshot 2024-02-21 132609](https://github.com/Mamthaiyappaprabu/19AI405ExpNo1/assets/119393563/a7d862b7-ef5f-4b18-aed8-f1ae7a8a40d7)
+### RESULT:
+Thus the Developing AI Agent with PEAS Description was implemented using python programming.
